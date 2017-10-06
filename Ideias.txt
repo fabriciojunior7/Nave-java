@@ -1,0 +1,8 @@
+========== Nave ==========
+
+--- inimimigos ---
+
+1 - linha reta
+2 - quica nas bordas
+3 - quica espaço limitado
+4 - segue jogador
